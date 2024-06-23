@@ -106,20 +106,20 @@ talker-independent speaker separation. Different from widely-used permutation in
 ## Publications
 ----
 1. **CASA-ASR: Context-Aware Speaker-Attributed ASR**, *Interspeech 2023* [[pdf](https://www.isca-archive.org/interspeech_2023/shi23d_interspeech.pdf)]
-<i>**Mohan Shi**</i>, Zhihao Du, Qian Chen, Fan Yu, Yangze Li, Shiliang Zhang, Jie Zhang, and Li-Rong Dai
+</br><i>**Mohan Shi**</i>, Zhihao Du, Qian Chen, Fan Yu, Yangze Li, Shiliang Zhang, Jie Zhang, and Li-Rong Dai
 
 1. **Semantic VAD: Low-Latency Voice Activity Detection for Speech Interaction**, *Interspeech 2023 <font color="red">(Oral)</font>* [[pdf](https://www.isca-archive.org/interspeech_2023/shi23c_interspeech.pdf)]
-<i>**Mohan Shi**</i>, Yuchun Shu, Lingyun Zuo, Qian Chen, Shiliang Zhang, Jie Zhang, and Li-Rong Dai
+</br><i>**Mohan Shi**</i>, Yuchun Shu, Lingyun Zuo, Qian Chen, Shiliang Zhang, Jie Zhang, and Li-Rong Dai
 
 1. **A Comparative Study on Multichannel Speaker-Attributed Automatic Speech Recognition in Multi-party Meetings**, *APSIPA ASC 2023* [[pdf](https://arxiv.org/pdf/2211.00511)]
-<i>**Mohan Shi**</i>, Jie Zhang, Zhihao Du, Fan Yu, Qian Chen, Shiliang Zhang, and Li-Rong Dai
+</br><i>**Mohan Shi**</i>, Jie Zhang, Zhihao Du, Fan Yu, Qian Chen, Shiliang Zhang, and Li-Rong Dai
 
 1. **The Second Multi-Channel Multi-Party Meeting Transcription Challenge (M2MeT 2.0): A Benchmark for Speaker-Attributed ASR**, *ASRU 2023* [[pdf](https://arxiv.org/pdf/2309.13573)]
-Yuhao Liang, <i>**Mohan Shi**</i>, Fan Yu, Yangze Li, Shiliang Zhang, Zhihao Du, Lei Xie, Yanmin Qian, Jian
+</br>Yuhao Liang, <i>**Mohan Shi**</i>, Fan Yu, Yangze Li, Shiliang Zhang, Zhihao Du, Lei Xie, Yanmin Qian, Jian
 Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, and Hui Bu
 
 1. **Non-autoregressive End-to-End Speaker-Attributed ASR**, *ASRU 2023* [[pdf](https://arxiv.org/pdf/2310.04863)]
-Yangze Li, Fan Yu, Yuhao Liang, Pengcheng Guo, <i>**Mohan Shi**</i>, Zhihao Du, Shiliang Zhang, and Lei Xie
+</br>Yangze Li, Fan Yu, Yuhao Liang, Pengcheng Guo, <i>**Mohan Shi**</i>, Zhihao Du, Shiliang Zhang, and Lei Xie
 
 
 <!-- <a id="Patents"></a>

@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hassan Taherian"
+title                    : Mohan Shi"
 title_separator          : "-"
-name                     : &name "Hassan Taherian"
-description              : &description "PhD candidate, Ohio State University"
-url                      : https://ha3an.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Mohan Shi"
+description              : &description "Incoming Ph.D. student, UCLA"
+url                      : https://morganshi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ha3an.github.io"
+repository               : "morganshi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hassan Taherian"
-  avatar           : "me.jpg"
-  bio              : "PhD candidate at Ohio State University"
-  location         : "Columbus, OH, USA"
+  name             : "Mohan Shi"
+  avatar           : "smh.jpg"
+  bio              : "Incoming Ph.D. student at UCLA"
+  location         : "Los Angeles, CA, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=0ISHNyAAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=w-S1thkAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ha3an"
+  github           : "morganshi"
   google_plus      :
   keybase          :
   instagram        :
