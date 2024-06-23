@@ -52,20 +52,20 @@ I am Mohan Shi, an incoming Ph.D. student in Electrical and Computer Engineering
 ## Publications
 ----
 1. **CASA-ASR: Context-Aware Speaker-Attributed ASR**, *Interspeech 2023* [[pdf](https://www.isca-archive.org/interspeech_2023/shi23d_interspeech.pdf)]
-</br><i>**Mohan Shi**</i>, Zhihao Du, Qian Chen, Fan Yu, Yangze Li, Shiliang Zhang, Jie Zhang, and Li-Rong Dai
+<br><i>**Mohan Shi**</i>, Zhihao Du, Qian Chen, Fan Yu, Yangze Li, Shiliang Zhang, Jie Zhang, and Li-Rong Dai
 
 1. **Semantic VAD: Low-Latency Voice Activity Detection for Speech Interaction**, *Interspeech 2023 <font color="red">(Oral)</font>* [[pdf](https://www.isca-archive.org/interspeech_2023/shi23c_interspeech.pdf)]
-</br><i>**Mohan Shi**</i>, Yuchun Shu, Lingyun Zuo, Qian Chen, Shiliang Zhang, Jie Zhang, and Li-Rong Dai
+<br><i>**Mohan Shi**</i>, Yuchun Shu, Lingyun Zuo, Qian Chen, Shiliang Zhang, Jie Zhang, and Li-Rong Dai
 
 1. **A Comparative Study on Multichannel Speaker-Attributed Automatic Speech Recognition in Multi-party Meetings**, *APSIPA ASC 2023* [[pdf](https://arxiv.org/pdf/2211.00511)]
-</br><i>**Mohan Shi**</i>, Jie Zhang, Zhihao Du, Fan Yu, Qian Chen, Shiliang Zhang, and Li-Rong Dai
+<br><i>**Mohan Shi**</i>, Jie Zhang, Zhihao Du, Fan Yu, Qian Chen, Shiliang Zhang, and Li-Rong Dai
 
 1. **The Second Multi-Channel Multi-Party Meeting Transcription Challenge (M2MeT 2.0): A Benchmark for Speaker-Attributed ASR**, *ASRU 2023* [[pdf](https://arxiv.org/pdf/2309.13573)]
-</br>Yuhao Liang, <i>**Mohan Shi**</i>, Fan Yu, Yangze Li, Shiliang Zhang, Zhihao Du, Lei Xie, Yanmin Qian, Jian
+<br>Yuhao Liang, <i>**Mohan Shi**</i>, Fan Yu, Yangze Li, Shiliang Zhang, Zhihao Du, Lei Xie, Yanmin Qian, Jian
 Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, and Hui Bu
 
 1. **Non-autoregressive End-to-End Speaker-Attributed ASR**, *ASRU 2023* [[pdf](https://arxiv.org/pdf/2310.04863)]
-</br>Yangze Li, Fan Yu, Yuhao Liang, Pengcheng Guo, <i>**Mohan Shi**</i>, Zhihao Du, Shiliang Zhang, and Lei Xie
+<br>Yangze Li, Fan Yu, Yuhao Liang, Pengcheng Guo, <i>**Mohan Shi**</i>, Zhihao Du, Shiliang Zhang, and Lei Xie
 
 
    
@@ -76,16 +76,19 @@ Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, and Hui Bu
 ###  <img src='/images/ustc.jpeg' style='width:38px'> University of Science and Technology of China 
 <ul class='twocol' markdown='1'>
 <li>Research Assistant, Sep 2021 – Jun 2024</li>
+<li>Advisor: <a href="https://dblp.org/pid/48/6462-1.html">Li-Rong Dai</a> </li>
 </ul>
 
 ###  <img src='/images/damo.png' style='width:40px' >  Alibaba Damo Academy
 <ul class='twocol' markdown='1'>
 <li>Research Intern, Speech Lab, Jul 2022 – May 2023</li>
+<li>Mentor(s): <a href="https://sites.google.com/view/xuyong/home">Shiliang Zhang</a> </li>
 </ul>
 
 ### <img src='/images/tencent.jpeg' style='width:50px'  >   Tencent AI Lab
 <ul class='twocol' markdown='1'>
 <li>Research Intern, Seattle Speech Lab, Sep 2023 – August 2024</li>
+<li>Mentor(s): <a href="https://sites.google.com/view/xuyong/home">Yong Xu</a>, <a href="https://scholar.google.com.hk/citations?user=4nGncN4AAAAJ&hl=zh-CN">Shi-Xiong (Austin) Zhang</a> </li>
 </ul>
 
 
