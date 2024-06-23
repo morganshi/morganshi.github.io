@@ -1,12 +1,8 @@
 # main links links
 main:
-  - title: "Research Highlights"
-    url: "#research_highlights"
   - title: "Publications"
     url: "#Publications"
-  - title: "Patents"
-    url: "#Patents"
-  - title: "Work Experience"
+  - title: "Research Experience"
     url: "#Experience"
 #   - title: "Publications"
 #     url: /publications/
