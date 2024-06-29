@@ -52,7 +52,7 @@ I am Mohan Shi, an incoming Ph.D. student in Electrical and Computer Engineering
 ## Publications
 ----
 1. **LibriheavyMix: A 20,000-Hour Dataset for Single-Channel Reverberant Multi-Talker Speech Separation, ASR and Speaker Diarization**, *Interspeech 2024*
-<br>Zengrui Jin*, Yifan Yang*, <i>**Mohan Shi***</i>, Wei Kang, Xiaoyu Yang, Zengwei Yao, Fangjun Kuang, Liyong Guo, Lingwei Meng, Long Lin, Yong Xu, Shi-Xiong Zhang, Daniel Povey
+<br>Zengrui Jin\*, Yifan Yang\*, <i>**Mohan Shi\***</i>, Wei Kang, Xiaoyu Yang, Zengwei Yao, Fangjun Kuang, Liyong Guo, Lingwei Meng, Long Lin, Yong Xu, Shi-Xiong Zhang, Daniel Povey
 
 1. **CASA-ASR: Context-Aware Speaker-Attributed ASR**, *Interspeech 2023* [[pdf](https://www.isca-archive.org/interspeech_2023/shi23d_interspeech.pdf)]
 <br><i>**Mohan Shi**</i>, Zhihao Du, Qian Chen, Fan Yu, Yangze Li, Shiliang Zhang, Jie Zhang, and Li-Rong Dai
