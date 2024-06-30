@@ -39,7 +39,7 @@ redirect_from:
 </style>
 
 
-I am Mohan Shi, an incoming Ph.D. student in Electrical and Computer Engineering at [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), advised by [Prof. Abeer Alwan](https://www.seas.ucla.edu/spapl/index.html). I obtain my master degree at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) and had the pleasure of working under the guidance of [Prof. Li-Rong Dai](https://dblp.org/pid/48/6462-1.html) for three years. My research interests span a variety of domains in the world of speech processing:
+I am Mohan Shi, an incoming Ph.D. student in Electrical and Computer Engineering at [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), advised by [Prof. Abeer Alwan](https://www.seas.ucla.edu/spapl/index.html) (IEEE Fellow, ISCA Fellow). I obtain my master degree at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) and had the pleasure of working under the guidance of [Prof. Li-Rong Dai](https://dblp.org/pid/48/6462-1.html) for three years. My research interests span a variety of domains in the world of speech processing:
 
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li>Automatic Speech Recognition</li>
@@ -97,13 +97,13 @@ Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, and Hui Bu
 <a id="Experience"></a>
 ## Experience
 ----
-### <img src='/images/tencent.jpeg' style='width:50px'  >   Tencent AI Lab
+### <img src='/images/tencent.jpeg' style='width:50px'  >   Tencent AI Lab, Bellevue, USA (remote)
 <ul class='twocol' markdown='1'>
 <li>Research Intern, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=nCmKPM4AAAAJ">Dr. Dong Yu</a>'s Speech Lab, Sep 2023 – August 2024</li>
 <li>Mentor(s): <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=nCmKPM4AAAAJ">Dr. Yong Xu</a>, <a href="https://scholar.google.com.hk/citations?user=4nGncN4AAAAJ&hl=zh-CN">Dr. Shi-Xiong (Austin) Zhang</a> </li>
 </ul>
 
-###  <img src='/images/damo.png' style='width:40px' >  Alibaba Damo Academy
+###  <img src='/images/damo.png' style='width:40px' >  Alibaba Damo Academy, Hangzhou, China
 <ul class='twocol' markdown='1'>
 <li>Research Intern, Speech Group, Jul 2022 – May 2023</li>
 <li>Mentor(s): <a href="https://sites.google.com/view/xuyong/home">Dr. Shiliang Zhang</a> </li>
