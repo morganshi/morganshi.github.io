@@ -53,7 +53,7 @@ I am Mohan Shi, an incoming Ph.D. student in Electrical and Computer Engineering
 ----
 
 1. **Advancing Multi-talker ASR Performance with Large Language Models**, *SLT 2024*
-<br><i>**Mohan Shi**</i>, Zengrui Jin, Yaoxun xu, Yong Xu, Shi-Xiong Zhang, Kun Wei, Yiwen Shao, Chunlei Zhang, and Dong Yu
+<br><i>**Mohan Shi**</i>, Zengrui Jin, Yaoxun Xu, Yong Xu, Shi-Xiong Zhang, Kun Wei, Yiwen Shao, Chunlei Zhang, and Dong Yu
 
 1. **LibriheavyMix: A 20,000-Hour Dataset for Single-Channel Reverberant Multi-Talker Speech Separation, ASR and Speaker Diarization**, *Interspeech 2024 <font color="red">(Oral)</font>*
 <br>Zengrui Jin\*, Yifan Yang\*, <i>**Mohan Shi\***</i>, Wei Kang, Xiaoyu Yang, Zengwei Yao, Fangjun Kuang, Liyong Guo, Lingwei Meng, Long Lin, Yong Xu, Shi-Xiong Zhang, Daniel Povey
