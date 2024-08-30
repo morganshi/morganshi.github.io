@@ -53,26 +53,26 @@ I am Mohan Shi, an incoming Ph.D. student in Electrical and Computer Engineering
 ----
 
 1. **Advancing Multi-talker ASR Performance with Large Language Models**, *SLT 2024*
-<br><i>**Mohan Shi**</i>, Zengrui Jin, Yaoxun Xu, Yong Xu, Shi-Xiong Zhang, Kun Wei, Yiwen Shao, Chunlei Zhang, and Dong Yu
+<br><i>**Mohan Shi**</i>, Zengrui Jin, Yaoxun Xu, Yong Xu, Shi-Xiong Zhang, Kun Wei, Yiwen Shao, Chunlei Zhang, Dong Yu
 
 1. **LibriheavyMix: A 20,000-Hour Dataset for Single-Channel Reverberant Multi-Talker Speech Separation, ASR and Speaker Diarization**, *Interspeech 2024 <font color="red">(Oral)</font>*
 <br>Zengrui Jin\*, Yifan Yang\*, <i>**Mohan Shi\***</i>, Wei Kang, Xiaoyu Yang, Zengwei Yao, Fangjun Kuang, Liyong Guo, Lingwei Meng, Long Lin, Yong Xu, Shi-Xiong Zhang, Daniel Povey
 
 1. **CASA-ASR: Context-Aware Speaker-Attributed ASR**, *Interspeech 2023* [[pdf](https://www.isca-archive.org/interspeech_2023/shi23d_interspeech.pdf)]
-<br><i>**Mohan Shi**</i>, Zhihao Du, Qian Chen, Fan Yu, Yangze Li, Shiliang Zhang, Jie Zhang, and Li-Rong Dai
+<br><i>**Mohan Shi**</i>, Zhihao Du, Qian Chen, Fan Yu, Yangze Li, Shiliang Zhang, Jie Zhang, Li-Rong Dai
 
 1. **Semantic VAD: Low-Latency Voice Activity Detection for Speech Interaction**, *Interspeech 2023 <font color="red">(Oral)</font>* [[pdf](https://www.isca-archive.org/interspeech_2023/shi23c_interspeech.pdf)]
-<br><i>**Mohan Shi**</i>, Yuchun Shu, Lingyun Zuo, Qian Chen, Shiliang Zhang, Jie Zhang, and Li-Rong Dai
+<br><i>**Mohan Shi**</i>, Yuchun Shu, Lingyun Zuo, Qian Chen, Shiliang Zhang, Jie Zhang, Li-Rong Dai
 
 1. **A Comparative Study on Multichannel Speaker-Attributed Automatic Speech Recognition in Multi-party Meetings**, *APSIPA ASC 2023* [[pdf](https://arxiv.org/pdf/2211.00511)]
-<br><i>**Mohan Shi**</i>, Jie Zhang, Zhihao Du, Fan Yu, Qian Chen, Shiliang Zhang, and Li-Rong Dai
+<br><i>**Mohan Shi**</i>, Jie Zhang, Zhihao Du, Fan Yu, Qian Chen, Shiliang Zhang, Li-Rong Dai
 
 1. **The Second Multi-Channel Multi-Party Meeting Transcription Challenge (M2MeT 2.0): A Benchmark for Speaker-Attributed ASR**, *ASRU 2023* [[pdf](https://arxiv.org/pdf/2309.13573)]
 <br>Yuhao Liang, <i>**Mohan Shi**</i>, Fan Yu, Yangze Li, Shiliang Zhang, Zhihao Du, Lei Xie, Yanmin Qian, Jian
-Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, and Hui Bu
+Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, Hui Bu
 
 1. **Non-autoregressive End-to-End Speaker-Attributed ASR**, *ASRU 2023* [[pdf](https://arxiv.org/pdf/2310.04863)]
-<br>Yangze Li, Fan Yu, Yuhao Liang, Pengcheng Guo, <i>**Mohan Shi**</i>, Zhihao Du, Shiliang Zhang, and Lei Xie
+<br>Yangze Li, Fan Yu, Yuhao Liang, Pengcheng Guo, <i>**Mohan Shi**</i>, Zhihao Du, Shiliang Zhang, Lei Xie
 
 1. **The USTC-NELSLIP offline speech translation systems for IWSLT 2022**, *IWSLT 2022* [[pdf](https://aclanthology.org/2022.iwslt-1.15.pdf)]
 <br>Weitai Zhang, Zhongyi Ye, Haitao Tang, Xiaoxi Li, Xinyuan Zhou, Jing Yang, Jianwei Cui, Pan Deng, <i>**Mohan Shi**</i>, Yifan Song, Dan Liu, Junhua Liu, Lirong Dai
