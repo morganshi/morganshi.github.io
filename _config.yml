@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : Mohan Shi
 title_separator          : "-"
 name                     : &name "Mohan Shi"
-description              : &description "Incoming Ph.D. student, UCLA"
+description              : &description "Ph.D. student, UCLA"
 url                      : https://morganshi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "morganshi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mohan Shi"
   avatar           : "smh.jpeg"
-  bio              : "Incoming Ph.D. student at UCLA"
+  bio              : "Ph.D. student at UCLA"
   location         : "Los Angeles, CA, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
