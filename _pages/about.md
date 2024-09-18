@@ -103,14 +103,14 @@ Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, Hui Bu
 ----
 ### <img src='/images/tencent_ai_lab.png' style='width:50px'  >   Tencent AI Lab, Bellevue, USA (remote)
 <ul class='twocol' markdown='1'>
-<li>Research Intern, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=nCmKPM4AAAAJ">Dr. Dong Yu</a>'s Speech Lab, Sep 2023 – August 2024</li>
-<li>Mentor(s): <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=nCmKPM4AAAAJ">Dr. Yong Xu</a>, <a href="https://scholar.google.com.hk/citations?user=4nGncN4AAAAJ&hl=zh-CN">Dr. Shi-Xiong (Austin) Zhang</a> </li>
+<li>Research Intern, <a href="https://scholar.google.com/citations?user=tMY31_gAAAAJ&hl=en&oi=ao">Dr. Dong Yu</a>'s Speech Lab, Sep 2023 – August 2024</li>
+<li>Mentor(s): <a href="https://scholar.google.com/citations?user=nCmKPM4AAAAJ&hl=en">Dr. Yong Xu</a>, <a href="https://scholar.google.com/citations?user=4nGncN4AAAAJ&hl=en">Dr. Shi-Xiong (Austin) Zhang</a> </li>
 </ul>
 
 ###  <img src='/images/damo.png' style='width:40px' >  Alibaba Damo Academy, Hangzhou, China
 <ul class='twocol' markdown='1'>
 <li>Research Intern, Speech Group, Jul 2022 – May 2023</li>
-<li>Mentor(s): <a href="https://sites.google.com/view/xuyong/home">Dr. Shiliang Zhang</a> </li>
+<li>Mentor(s): <a href="https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=en">Dr. Shiliang Zhang</a> </li>
 </ul>
 
 
