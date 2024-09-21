@@ -47,6 +47,7 @@ I am Mohan Shi, a Ph.D. student in Electrical and Computer Engineering at [Unive
 <li>Large Language Models</li>
 </ul>
 
+**<font color="red">I am eagerly seeking research internship opportunities for the Summer of 2025. Please reach out if you have any leads.</font>**
 
 <a id="Publications"></a>
 ## Publications
