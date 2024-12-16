@@ -43,8 +43,9 @@ I am Mohan Shi, a first-year Ph.D. student in Electrical and Computer Engineerin
 
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li>Automatic Speech Recognition</li>
-<li>Cocktail Party Problem</li>
+<li>Discrete Speech Units</li>
 <li>Large Language Models</li>
+<li>Cocktail Party Problem</li>
 </ul>
 
 **<font color="red">I am eagerly seeking research internship opportunities for the Summer of 2025. Please reach out if you have any leads.</font>**
@@ -84,13 +85,13 @@ Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, Hui Bu
 ###  <img src='/images/ucla.jpeg' style='width:38px'> University of California, Los Angeles
 <ul class='twocol' markdown='1'>
 <li><i>Ph.D. student</i>, Electrical and Computer Engineering, Sep 2024 – Present</li>
-<li>Advisor: <a href="https://www.seas.ucla.edu/spapl/index.html">Prof. Abeer Alwan</a> (Fellow of IEEE/ISCA/ASA) </li>
+<li>Advisor: <a href="https://www.seas.ucla.edu/spapl/index.html">Dr. Abeer Alwan</a> (Distinguished Prof. & Vice Chair, Fellow of IEEE/ISCA/ASA) </li>
 </ul>
 
 ###  <img src='/images/ustc.jpeg' style='width:38px'> University of Science and Technology of China 
 <ul class='twocol' markdown='1'>
 <li><i>Master of Engineering</i>, Electronic Engineering and Information Science, Sep 2021 – Jun 2024</li>
-<li>Advisor: <a href="https://dblp.org/pid/48/6462-1.html">Prof. Li-Rong Dai</a> </li>
+<li>Advisor: <a href="https://dblp.org/pid/48/6462-1.html">Dr. Li-Rong Dai</a> </li>
 </ul>
 
 ###  <img src='/images/dut.jpeg' style='width:38px'> Dalian University of Technology 
