@@ -6,6 +6,8 @@ main:
     url: "#Education"
   - title: "Experience"
     url: "#Experience"
+  - title: "CV"
+    url: /cv/
 #   - title: "Publications"
 #     url: /publications/
 
