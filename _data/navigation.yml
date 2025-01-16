@@ -7,7 +7,7 @@ main:
   - title: "Experience"
     url: "#Experience"
   - title: "CV"
-    url: files/Mohan_UCLA.pdf
+    url: /files/Mohan_UCLA.pdf
 #   - title: "Publications"
 #     url: /publications/
 
