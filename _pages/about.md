@@ -48,7 +48,9 @@ I am Mohan Shi, a first-year Ph.D. student in Electrical and Computer Engineerin
 <li>Cocktail Party Problem</li>
 </ul>
 
-**<font color="red">I am eagerly seeking research internship opportunities for the Summer of 2025. Please reach out if you have any leads.</font>**
+<!-- **<font color="red">I am eagerly seeking research internship opportunities for the Summer of 2025. Please reach out if you have any leads.</font>** -->
+
+**<font color="red">I will be joining Microsoft Research as a research intern this summer.</font>**
 
 <a id="Publications"></a>
 ## Publications
