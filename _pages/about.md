@@ -113,7 +113,7 @@ Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, Hui Bu
 
 ###  <img src='/images/damo.png' style='width:40px' >  Alibaba Damo Academy, Hangzhou, China
 <ul class='twocol' markdown='1'>
-<li>Research Intern, Speech Group, Jul 2022 – May 2023</li>
+<li>Research Intern, Qwen Speech Group, Jul 2022 – May 2023</li>
 <li>Mentor(s): <a href="https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=en">Dr. Shiliang Zhang</a> </li>
 </ul>
 
