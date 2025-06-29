@@ -43,20 +43,22 @@ I am Mohan Shi, a first-year Ph.D. student in Electrical and Computer Engineerin
 
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li>Automatic Speech Recognition</li>
-<li>Discrete Speech Units</li>
-<li>Large Language Models</li>
+<li>Discrete Speech Tokens</li>
+<li>Speech-centric Large Language Models</li>
 <li>Cocktail Party Problem</li>
 </ul>
 
 <!-- **<font color="red">I am eagerly seeking research internship opportunities for the Summer of 2025. Please reach out if you have any leads.</font>** -->
 
-**<font color="red">I will be joining Microsoft Research as a research intern this summer.</font>**
+**<font color="red">I have joined the Microsoft Azure AI Speech Team as a Research Intern and will be working on Phi-4-multimodal this summer.</font>**
 
 <a id="Publications"></a>
 ## Publications
 ----
+1. **CHSER: A Dataset and Case Study on Generative Speech Error Correction for Child ASR**, *Interspeech 2025* [[pdf](https://arxiv.org/pdf/2505.18463)]
+<br>Natarajan Balaji Shankar, Zilai Wang, Kaiyuan Zhang, <i>**Mohan Shi**</i>, Abeer Alwan
 
-1. **Advancing Multi-talker ASR Performance with Large Language Models**, *SLT 2024* [[pdf](https://arxiv.org/pdf/2408.17431)]
+2. **Advancing Multi-talker ASR Performance with Large Language Models**, *SLT 2024* [[pdf](https://arxiv.org/pdf/2408.17431)]
 <br><i>**Mohan Shi**</i>, Zengrui Jin, Yaoxun Xu, Yong Xu, Shi-Xiong Zhang, Kun Wei, Yiwen Shao, Chunlei Zhang, Dong Yu
 
 1. **LibriheavyMix: A 20,000-Hour Dataset for Single-Channel Reverberant Multi-Talker Speech Separation, ASR and Speaker Diarization**, *Interspeech 2024 <font color="red">(Oral)</font>* [[pdf](https://arxiv.org/pdf/2409.00819)]
@@ -87,13 +89,13 @@ Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, Hui Bu
 ###  <img src='/images/ucla.jpeg' style='width:38px'> University of California, Los Angeles
 <ul class='twocol' markdown='1'>
 <li><i>Ph.D. student</i>, Electrical and Computer Engineering, Sep 2024 – Present</li>
-<li>Advisor: <a href="https://www.seas.ucla.edu/spapl/index.html">Dr. Abeer Alwan</a> (Distinguished Prof. & Vice Chair, Fellow of IEEE/ISCA/ASA) </li>
+<li>Advisor: <a href="https://www.seas.ucla.edu/spapl/index.html">Abeer Alwan</a> (Distinguished Prof. & Vice Chair, Fellow of IEEE/ISCA/ASA) </li>
 </ul>
 
 ###  <img src='/images/ustc.jpeg' style='width:38px'> University of Science and Technology of China 
 <ul class='twocol' markdown='1'>
 <li><i>Master of Engineering</i>, Electronic Engineering and Information Science, Sep 2021 – Jun 2024</li>
-<li>Advisor: <a href="https://dblp.org/pid/48/6462-1.html">Dr. Li-Rong Dai</a> (Deputy Director of <a href="https://nercslip.ustc.edu.cn/main.htm">NERC-SLIP</a>) </li>
+<li>Advisor: <a href="https://dblp.org/pid/48/6462-1.html">Li-Rong Dai</a> (Deputy Director of <a href="https://nercslip.ustc.edu.cn/main.htm">NERC-SLIP</a>) </li>
 </ul>
 
 ###  <img src='/images/dut.jpeg' style='width:38px'> Dalian University of Technology 
@@ -105,16 +107,22 @@ Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, Hui Bu
 <a id="Experience"></a>
 ## Experience
 ----
+### <img src='/images/microsoft.png' style='width:80px'  >   Microsoft Research, Redmond, USA
+<ul class='twocol' markdown='1'>
+<li>Research Intern, MSR & Azure AI Speech Team, June 2025 – Present</li>
+<li>Mentor(s): <a href="https://scholar.google.com/citations?user=grUvupMAAAAJ&hl=en">Jinyu Li</a>, <a href="https://scholar.google.com/citations?user=HHjJ0doAAAAJ&hl=en">Xiong Xiao</a>, <a href="https://scholar.google.com/citations?user=-Jx0HyYAAAAJ&hl=en">Ruchao Fan</a>, <a href="https://scholar.google.com/citations?hl=en&user=DEjebZkAAAAJ">Shaoshi Ling</a> </li>
+</ul>
+
 ### <img src='/images/tencent_ai_lab.png' style='width:50px'  >   Tencent AI Lab, Bellevue, USA (remote)
 <ul class='twocol' markdown='1'>
-<li>Research Intern, <a href="https://scholar.google.com/citations?user=tMY31_gAAAAJ&hl=en&oi=ao">Dr. Dong Yu</a>'s Speech Lab, Sep 2023 – August 2024</li>
-<li>Mentor(s): <a href="https://scholar.google.com/citations?user=nCmKPM4AAAAJ&hl=en">Dr. Yong Xu</a>, <a href="https://scholar.google.com/citations?user=4nGncN4AAAAJ&hl=en">Dr. Shi-Xiong (Austin) Zhang</a> </li>
+<li>Research Intern, <a href="https://scholar.google.com/citations?user=tMY31_gAAAAJ&hl=en&oi=ao">Dong Yu</a>'s Speech Lab, Sep 2023 – August 2024</li>
+<li>Mentor(s): <a href="https://scholar.google.com/citations?user=nCmKPM4AAAAJ&hl=en">Yong Xu</a>, <a href="https://scholar.google.com/citations?user=4nGncN4AAAAJ&hl=en">Shi-Xiong (Austin) Zhang</a> </li>
 </ul>
 
 ###  <img src='/images/damo.png' style='width:40px' >  Alibaba Damo Academy, Hangzhou, China
 <ul class='twocol' markdown='1'>
 <li>Research Intern, Qwen Speech Group, Jul 2022 – May 2023</li>
-<li>Mentor(s): <a href="https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=en">Dr. Shiliang Zhang</a> </li>
+<li>Mentor(s): <a href="https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=en">Shiliang Zhang</a>, <a href="https://scholar.google.com/citations?user=Jzrv_XMAAAAJ&hl=en">Zhihao Du</a> </li>
 </ul>
 
 
