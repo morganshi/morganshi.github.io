@@ -52,6 +52,27 @@ I am Mohan Shi, a first-year Ph.D. student in Electrical and Computer Engineerin
 
 **<font color="red">I have joined the Microsoft Azure AI Speech Team as a Research Intern and will be working on Phi-4-multimodal this summer.</font>**
 
+<a id="Experience"></a>
+## Experience
+----
+### <img src='/images/microsoft.png' style='width:80px'  >   Microsoft Research, Redmond, USA
+<ul class='twocol' markdown='1'>
+<li>Research Intern, MSR & Azure AI Speech Team, June 2025 – Present</li>
+<li>Mentor(s): <a href="https://scholar.google.com/citations?user=grUvupMAAAAJ&hl=en">Jinyu Li</a>, <a href="https://scholar.google.com/citations?user=HHjJ0doAAAAJ&hl=en">Xiong Xiao</a>, <a href="https://scholar.google.com/citations?user=-Jx0HyYAAAAJ&hl=en">Ruchao Fan</a>, <a href="https://scholar.google.com/citations?hl=en&user=DEjebZkAAAAJ">Shaoshi Ling</a> </li>
+</ul>
+
+### <img src='/images/tencent_ai_lab.png' style='width:50px'  >   Tencent AI Lab, Bellevue, USA (remote)
+<ul class='twocol' markdown='1'>
+<li>Research Intern, <a href="https://scholar.google.com/citations?user=tMY31_gAAAAJ&hl=en&oi=ao">Dong Yu</a>'s Speech Lab, Sep 2023 – August 2024</li>
+<li>Mentor(s): <a href="https://scholar.google.com/citations?user=nCmKPM4AAAAJ&hl=en">Yong Xu</a>, <a href="https://scholar.google.com/citations?user=4nGncN4AAAAJ&hl=en">Shi-Xiong (Austin) Zhang</a> </li>
+</ul>
+
+###  <img src='/images/damo.png' style='width:40px' >  Alibaba Damo Academy, Hangzhou, China
+<ul class='twocol' markdown='1'>
+<li>Research Intern, Qwen Speech Group, Jul 2022 – May 2023</li>
+<li>Mentor(s): <a href="https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=en">Shiliang Zhang</a>, <a href="https://scholar.google.com/citations?user=Jzrv_XMAAAAJ&hl=en">Zhihao Du</a> </li>
+</ul>
+
 <a id="Publications"></a>
 ## Publications
 ----
@@ -103,26 +124,4 @@ Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, Hui Bu
 <li><i>Bachelor of Engineering</i>, Electronic Information Engineering, Sep 2017 – Jun 2021</li>
 <li>Rank: 1 / 185</li>
 </ul>
-
-<a id="Experience"></a>
-## Experience
-----
-### <img src='/images/microsoft.png' style='width:80px'  >   Microsoft Research, Redmond, USA
-<ul class='twocol' markdown='1'>
-<li>Research Intern, MSR & Azure AI Speech Team, June 2025 – Present</li>
-<li>Mentor(s): <a href="https://scholar.google.com/citations?user=grUvupMAAAAJ&hl=en">Jinyu Li</a>, <a href="https://scholar.google.com/citations?user=HHjJ0doAAAAJ&hl=en">Xiong Xiao</a>, <a href="https://scholar.google.com/citations?user=-Jx0HyYAAAAJ&hl=en">Ruchao Fan</a>, <a href="https://scholar.google.com/citations?hl=en&user=DEjebZkAAAAJ">Shaoshi Ling</a> </li>
-</ul>
-
-### <img src='/images/tencent_ai_lab.png' style='width:50px'  >   Tencent AI Lab, Bellevue, USA (remote)
-<ul class='twocol' markdown='1'>
-<li>Research Intern, <a href="https://scholar.google.com/citations?user=tMY31_gAAAAJ&hl=en&oi=ao">Dong Yu</a>'s Speech Lab, Sep 2023 – August 2024</li>
-<li>Mentor(s): <a href="https://scholar.google.com/citations?user=nCmKPM4AAAAJ&hl=en">Yong Xu</a>, <a href="https://scholar.google.com/citations?user=4nGncN4AAAAJ&hl=en">Shi-Xiong (Austin) Zhang</a> </li>
-</ul>
-
-###  <img src='/images/damo.png' style='width:40px' >  Alibaba Damo Academy, Hangzhou, China
-<ul class='twocol' markdown='1'>
-<li>Research Intern, Qwen Speech Group, Jul 2022 – May 2023</li>
-<li>Mentor(s): <a href="https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=en">Shiliang Zhang</a>, <a href="https://scholar.google.com/citations?user=Jzrv_XMAAAAJ&hl=en">Zhihao Du</a> </li>
-</ul>
-
 
