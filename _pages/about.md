@@ -114,18 +114,19 @@ Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, Hui Bu
 ###  <img src='/images/ucla.jpeg' style='width:38px'> University of California, Los Angeles
 <ul class='twocol' markdown='1'>
 <li><i>Ph.D. student</i>, Electrical and Computer Engineering, Sep 2024 – Present</li>
-<li>Advisor: <a href="https://www.seas.ucla.edu/spapl/index.html">Abeer Alwan</a> (Distinguished Prof. & Vice Chair, Fellow of IEEE/ISCA/ASA) </li>
+<li>Advisor: <a href="https://www.seas.ucla.edu/spapl/index.html">Abeer Alwan</a> (Distinguished Prof., Fellow of IEEE/ISCA/ASA) </li>
 </ul>
 
 ###  <img src='/images/ustc.jpeg' style='width:38px'> University of Science and Technology of China 
 <ul class='twocol' markdown='1'>
 <li><i>Master of Engineering</i>, Electronic Engineering and Information Science, Sep 2021 – Jun 2024</li>
-<li>Advisor: <a href="https://dblp.org/pid/48/6462-1.html">Li-Rong Dai</a> (Deputy Director of <a href="https://nercslip.ustc.edu.cn/main.htm">NERC-SLIP</a>) </li>
+<li>Advisor: <a href="https://dblp.org/pid/48/6462-1.html">Li-Rong Dai</a> </li>
+<!-- <li>Advisor: <a href="https://dblp.org/pid/48/6462-1.html">Li-Rong Dai</a> (Deputy Director of <a href="https://nercslip.ustc.edu.cn/main.htm">NERC-SLIP</a>) </li> -->
 </ul>
 
 ###  <img src='/images/dut.jpeg' style='width:38px'> Dalian University of Technology 
 <ul class='twocol' markdown='1'>
 <li><i>Bachelor of Engineering</i>, Electronic Information Engineering, Sep 2017 – Jun 2021</li>
-<li>Rank: 1 / 185</li>
+<li>GPA Rank: 1 / 185</li>
 </ul>
 
