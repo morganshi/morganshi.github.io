@@ -50,14 +50,14 @@ I am Mohan Shi, a first-year Ph.D. student in Electrical and Computer Engineerin
 
 <!-- **<font color="red">I am eagerly seeking research internship opportunities for the Summer of 2025. Please reach out if you have any leads.</font>** -->
 
-**<font color="red">I have joined the Microsoft Azure AI Speech Team as a Research Intern and will be working on Phi-4-multimodal this summer.</font>**
+<!-- **<font color="red">I have joined the Microsoft Azure AI Speech Team as a Research Intern and will be working on Phi-4-multimodal this summer.</font>** -->
 
 <a id="Experience"></a>
 ## Experience
 ----
 ### <img src='/images/microsoft.png' style='width:80px'  >   Microsoft Research, Redmond, USA
 <ul class='twocol' markdown='1'>
-<li>Research Intern, MSR & Azure AI Speech Team, June 2025 – Present</li>
+<li>Research Intern, CoreAI Speech Team, June 2025 – Sep 2025</li>
 <li>Mentor(s): <a href="https://scholar.google.com/citations?user=grUvupMAAAAJ&hl=en">Jinyu Li</a>, <a href="https://scholar.google.com/citations?user=HHjJ0doAAAAJ&hl=en">Xiong Xiao</a>, <a href="https://scholar.google.com/citations?user=-Jx0HyYAAAAJ&hl=en">Ruchao Fan</a>, <a href="https://scholar.google.com/citations?hl=en&user=DEjebZkAAAAJ">Shaoshi Ling</a> </li>
 </ul>
 
