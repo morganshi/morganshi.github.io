@@ -43,9 +43,10 @@ I am Mohan Shi, a first-year Ph.D. student in Electrical and Computer Engineerin
 
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li>Automatic Speech Recognition</li>
-<li>Discrete Speech Tokens</li>
 <li>Speech-centric Large Language Models</li>
-<li>Cocktail Party Problem</li>
+<li>Child/Low-resource Speech Processing</li>
+<li>Discrete Speech Tokens</li>
+<li>Cocktail Party Problems</li>
 </ul>
 
 <!-- **<font color="red">I am eagerly seeking research internship opportunities for the Summer of 2025. Please reach out if you have any leads.</font>** -->
@@ -58,18 +59,21 @@ I am Mohan Shi, a first-year Ph.D. student in Electrical and Computer Engineerin
 ### <img src='/images/microsoft.png' style='width:80px'  >   Microsoft Research, Redmond, USA
 <ul class='twocol' markdown='1'>
 <li>Research Intern, CoreAI Speech Team, June 2025 – Sep 2025</li>
-<li>Mentor(s): <a href="https://scholar.google.com/citations?user=grUvupMAAAAJ&hl=en">Jinyu Li</a>, <a href="https://scholar.google.com/citations?user=HHjJ0doAAAAJ&hl=en">Xiong Xiao</a>, <a href="https://scholar.google.com/citations?user=-Jx0HyYAAAAJ&hl=en">Ruchao Fan</a>, <a href="https://scholar.google.com/citations?hl=en&user=DEjebZkAAAAJ">Shaoshi Ling</a> </li>
+<li>Manager: <a href="https://scholar.google.com/citations?user=grUvupMAAAAJ&hl=en">Jinyu Li</a></li>
+<li>Mentor(s): <a href="https://scholar.google.com/citations?user=HHjJ0doAAAAJ&hl=en">Xiong Xiao</a>, <a href="https://scholar.google.com/citations?user=-Jx0HyYAAAAJ&hl=en">Ruchao Fan</a>, <a href="https://scholar.google.com/citations?hl=en&user=DEjebZkAAAAJ">Shaoshi Ling</a> </li>
 </ul>
 
 ### <img src='/images/tencent_ai_lab.png' style='width:50px'  >   Tencent AI Lab, Bellevue, USA (remote)
 <ul class='twocol' markdown='1'>
-<li>Research Intern, <a href="https://scholar.google.com/citations?user=tMY31_gAAAAJ&hl=en&oi=ao">Dong Yu</a>'s Speech Lab, Sep 2023 – August 2024</li>
+<li>Research Intern, Seattle Speech Lab, Sep 2023 – August 2024</li>
+<li>Manager: <a href="https://scholar.google.com/citations?user=tMY31_gAAAAJ&hl=en&oi=ao">Dong Yu</a></li>
 <li>Mentor(s): <a href="https://scholar.google.com/citations?user=nCmKPM4AAAAJ&hl=en">Yong Xu</a>, <a href="https://scholar.google.com/citations?user=4nGncN4AAAAJ&hl=en">Shi-Xiong (Austin) Zhang</a> </li>
 </ul>
 
-###  <img src='/images/damo.png' style='width:40px' >  Alibaba Damo Academy, Hangzhou, China
+###  <img src='/images/damo.png' style='width:40px' >  Alibaba Group, Hangzhou, China
 <ul class='twocol' markdown='1'>
-<li>Research Intern, Qwen Speech Group, Jul 2022 – May 2023</li>
+<li>Research Intern, Tongyi Speech Team, Jul 2022 – May 2023</li>
+<li>Manager: <a href="https://scholar.google.com/citations?hl=en&user=ybCO4RIAAAAJ">Zhijie Yan</a></li>
 <li>Mentor(s): <a href="https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=en">Shiliang Zhang</a>, <a href="https://scholar.google.com/citations?user=Jzrv_XMAAAAJ&hl=en">Zhihao Du</a> </li>
 </ul>
 
