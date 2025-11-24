@@ -49,7 +49,7 @@ I am Mohan Shi, a second-year Ph.D. student in Electrical and Computer Engineeri
 <li>Cocktail Party Problems</li>
 </ul>
 
-**<font color="red">My summer intern paper at Microsoft is now on [[arXiv](https://arxiv.org/pdf/2511.16046)]! We use Phi-4-Multimodal for joint ASR and speaker diarization, achieving SOTA on both short and long audio.</font>**
+**<font color="red">My summer intern paper at Microsoft is now on <a href="https://arxiv.org/pdf/2511.16046">arXiv</a>! We use Phi-4-Multimodal for joint ASR and speaker diarization, achieving SOTA on both short and long audio.</font>**
 
 **<font color="red">I am seeking research internship opportunities for the Summer of 2026. Please reach out if you have any leads.</font>**
 
