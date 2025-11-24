@@ -39,7 +39,7 @@ redirect_from:
 </style>
 
 
-I am Mohan Shi, a first-year Ph.D. student in Electrical and Computer Engineering at [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), advised by [Prof. Abeer Alwan](https://www.seas.ucla.edu/spapl/index.html). I received my master degree at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) and worked under the guidance of [Prof. Li-Rong Dai](https://dblp.org/pid/48/6462-1.html) for three years. My research interests span a variety of domains in the world of speech processing:
+I am Mohan Shi, a second-year Ph.D. student in Electrical and Computer Engineering at [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), advised by [Prof. Abeer Alwan](https://www.seas.ucla.edu/spapl/index.html). I received my master degree at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) and worked under the guidance of [Prof. Li-Rong Dai](https://dblp.org/pid/48/6462-1.html) for three years. My research interests span a variety of domains in the world of speech processing:
 
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li>Automatic Speech Recognition</li>
@@ -49,7 +49,9 @@ I am Mohan Shi, a first-year Ph.D. student in Electrical and Computer Engineerin
 <li>Cocktail Party Problems</li>
 </ul>
 
-<!-- **<font color="red">I am eagerly seeking research internship opportunities for the Summer of 2025. Please reach out if you have any leads.</font>** -->
+**<font color="red">My summer intern paper at Microsoft is now on [[arXiv](https://arxiv.org/pdf/2511.16046)]! We use Phi-4-Multimodal for joint ASR and speaker diarization, achieving SOTA on both short and long audio.</font>**
+
+**<font color="red">I am seeking research internship opportunities for the Summer of 2026. Please reach out if you have any leads.</font>**
 
 <!-- **<font color="red">I have joined the Microsoft Azure AI Speech Team as a Research Intern and will be working on Phi-4-multimodal this summer.</font>** -->
 
@@ -80,10 +82,13 @@ I am Mohan Shi, a first-year Ph.D. student in Electrical and Computer Engineerin
 <a id="Publications"></a>
 ## Publications
 ----
+1. **Train Short, Infer Long: Speech-LLM Enables Zero-Shot Streamable Joint ASR and Diarization on Long Audio**, *Preprint* [[pdf](https://arxiv.org/pdf/2511.16046)]
+<br><i>**Mohan Shi**</i>, Xiong Xiao, Ruchao Fan, Shaoshi Ling, Jinyu Li
+
 1. **CHSER: A Dataset and Case Study on Generative Speech Error Correction for Child ASR**, *Interspeech 2025* [[pdf](https://arxiv.org/pdf/2505.18463)]
 <br>Natarajan Balaji Shankar, Zilai Wang, Kaiyuan Zhang, <i>**Mohan Shi**</i>, Abeer Alwan
 
-2. **Advancing Multi-talker ASR Performance with Large Language Models**, *SLT 2024* [[pdf](https://arxiv.org/pdf/2408.17431)]
+1. **Advancing Multi-talker ASR Performance with Large Language Models**, *SLT 2024* [[pdf](https://arxiv.org/pdf/2408.17431)]
 <br><i>**Mohan Shi**</i>, Zengrui Jin, Yaoxun Xu, Yong Xu, Shi-Xiong Zhang, Kun Wei, Yiwen Shao, Chunlei Zhang, Dong Yu
 
 1. **LibriheavyMix: A 20,000-Hour Dataset for Single-Channel Reverberant Multi-Talker Speech Separation, ASR and Speaker Diarization**, *Interspeech 2024 <font color="red">(Oral)</font>* [[pdf](https://arxiv.org/pdf/2409.00819)]
