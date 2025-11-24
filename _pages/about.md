@@ -80,7 +80,7 @@ I am Mohan Shi, a second-year Ph.D. student in Electrical and Computer Engineeri
 </ul>
 
 <a id="Publications"></a>
-## Publications
+## Selected Publications
 ----
 1. **Train Short, Infer Long: Speech-LLM Enables Zero-Shot Streamable Joint ASR and Diarization on Long Audio**, *Preprint* [[pdf](https://arxiv.org/pdf/2511.16046)]
 <br><i>**Mohan Shi**</i>, Xiong Xiao, Ruchao Fan, Shaoshi Ling, Jinyu Li
