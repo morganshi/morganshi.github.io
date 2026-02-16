@@ -45,13 +45,13 @@ I am Mohan Shi, a second-year Ph.D. student in Electrical and Computer Engineeri
 <li>Automatic Speech Recognition</li>
 <li>Speech-centric Large Language Models</li>
 <li>Child/Low-resource Speech Processing</li>
-<li>Discrete Speech Tokens</li>
+<li>Speech Tokenization</li>
 <li>Cocktail Party Problems</li>
 </ul>
 
 **<font color="red">My summer intern paper at Microsoft is now on <a href="https://arxiv.org/pdf/2511.16046">arXiv</a>! We use Phi-4-Multimodal for joint ASR and speaker diarization, achieving SOTA on both short and long audio.</font>**
 
-**<font color="red">I am seeking research internship opportunities for the Summer of 2026. Please reach out if you have any leads.</font>**
+<!-- **<font color="red">I am seeking research internship opportunities for the Summer of 2026. Please reach out if you have any leads.</font>** -->
 
 <!-- **<font color="red">I have joined the Microsoft Azure AI Speech Team as a Research Intern and will be working on Phi-4-multimodal this summer.</font>** -->
 
@@ -82,8 +82,11 @@ I am Mohan Shi, a second-year Ph.D. student in Electrical and Computer Engineeri
 <a id="Publications"></a>
 ## Selected Publications
 ----
-1. **Train Short, Infer Long: Speech-LLM Enables Zero-Shot Streamable Joint ASR and Diarization on Long Audio**, *Preprint* [[pdf](https://arxiv.org/pdf/2511.16046)]
+1. **Train Short, Infer Long: Speech-LLM Enables Zero-Shot Streamable Joint ASR and Diarization on Long Audio**, *ICASSP 2026* [[pdf](https://arxiv.org/pdf/2511.16046)]
 <br><i>**Mohan Shi**</i>, Xiong Xiao, Ruchao Fan, Shaoshi Ling, Jinyu Li
+
+1. **STACodec: Semantic Token Assignment for Balancing Acoustic Fidelity and Semantic Information in Audio Codecs**, *ICASSP 2026* [[pdf](https://arxiv.org/pdf/2602.06180)] [[code](https://github.com/epcm/STACodec)]
+<br>Kaiyuan Zhang\*, <i>**Mohan Shi\***</i>, Eray Eren, Natarajan Balaji Shankar, Zilai Wang, Abeer Alwan
 
 1. **CHSER: A Dataset and Case Study on Generative Speech Error Correction for Child ASR**, *Interspeech 2025* [[pdf](https://arxiv.org/pdf/2505.18463)]
 <br>Natarajan Balaji Shankar, Zilai Wang, Kaiyuan Zhang, <i>**Mohan Shi**</i>, Abeer Alwan
