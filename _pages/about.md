@@ -88,9 +88,6 @@ I am Mohan Shi, a second-year Ph.D. student in Electrical and Computer Engineeri
 1. **STACodec: Semantic Token Assignment for Balancing Acoustic Fidelity and Semantic Information in Audio Codecs**, *ICASSP 2026* [[pdf](https://arxiv.org/pdf/2602.06180)] [[code](https://github.com/epcm/STACodec)]
 <br>Kaiyuan Zhang\*, <i>**Mohan Shi\***</i>, Eray Eren, Natarajan Balaji Shankar, Zilai Wang, Abeer Alwan
 
-<!-- 1. **CHSER: A Dataset and Case Study on Generative Speech Error Correction for Child ASR**, *Interspeech 2025* [[pdf](https://arxiv.org/pdf/2505.18463)]
-<br>Natarajan Balaji Shankar, Zilai Wang, Kaiyuan Zhang, <i>**Mohan Shi**</i>, Abeer Alwan -->
-
 1. **Advancing Multi-talker ASR Performance with Large Language Models**, *SLT 2024* [[pdf](https://arxiv.org/pdf/2408.17431)]
 <br><i>**Mohan Shi**</i>, Zengrui Jin, Yaoxun Xu, Yong Xu, Shi-Xiong Zhang, Kun Wei, Yiwen Shao, Chunlei Zhang, Dong Yu
 
