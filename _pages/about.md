@@ -39,7 +39,9 @@ redirect_from:
 </style>
 
 
-I am Mohan Shi, a second-year Ph.D. student in Electrical and Computer Engineering at [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), advised by [Prof. Abeer Alwan](https://www.seas.ucla.edu/spapl/index.html). I received my master degree at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) and worked under the guidance of [Prof. Li-Rong Dai](https://dblp.org/pid/48/6462-1.html) for three years. My research interests span a variety of domains in the world of speech processing:
+I am Mohan Shi, a second-year Ph.D. student in Electrical and Computer Engineering at [University of California, Los Angeles (UCLA)](https://www.ucla.edu/)
+<!-- , advised by [Prof. Abeer Alwan](https://www.seas.ucla.edu/spapl/index.html). -->
+I received my master degree at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) and worked under the guidance of [Prof. Li-Rong Dai](https://dblp.org/pid/48/6462-1.html) for three years. My research interests span a variety of domains in the world of speech processing:
 
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li>Automatic Speech Recognition</li>
@@ -49,35 +51,49 @@ I am Mohan Shi, a second-year Ph.D. student in Electrical and Computer Engineeri
 <li>Cocktail Party Problems</li>
 </ul>
 
-**<font color="red">My summer intern paper at Microsoft is now on <a href="https://arxiv.org/pdf/2511.16046">arXiv</a>! We use Phi-4-Multimodal for joint ASR and speaker diarization, achieving SOTA on both short and long audio.</font>**
+<!-- **<font color="red">My summer intern paper at Microsoft is now on <a href="https://arxiv.org/pdf/2511.16046">arXiv</a>! We use Phi-4-Multimodal for joint ASR and speaker diarization, achieving SOTA on both short and long audio.</font>** -->
 
-<!-- **<font color="red">I am seeking research internship opportunities for the Summer of 2026. Please reach out if you have any leads.</font>** -->
+**<font color="red">I am seeking research internship opportunities for the Summer of 2027. Please reach out if you have any leads.</font>**
 
 <!-- **<font color="red">I have joined the Microsoft Azure AI Speech Team as a Research Intern and will be working on Phi-4-multimodal this summer.</font>** -->
 
 <a id="Experience"></a>
+
 ## Experience
 ----
-### <img src='/images/microsoft.png' style='width:80px'  >   Microsoft Research, Redmond, USA
+
+### <img src='/images/microsoft.png' style='width:80px'> Microsoft Research, Redmond, USA
 <ul class='twocol' markdown='1'>
-<li>Research Intern, CoreAI Speech Team, June 2025 – Sep 2025</li>
-<li>Manager: <a href="https://scholar.google.com/citations?user=grUvupMAAAAJ&hl=en">Jinyu Li</a></li>
-<li>Mentor(s): <a href="https://scholar.google.com/citations?user=HHjJ0doAAAAJ&hl=en">Xiong Xiao</a>, <a href="https://scholar.google.com/citations?user=-Jx0HyYAAAAJ&hl=en">Ruchao Fan</a>, <a href="https://scholar.google.com/citations?hl=en&user=DEjebZkAAAAJ">Shaoshi Ling</a> </li>
+<li>Research Intern, CoreAI Speech Team, Jun 2026 – Sep 2026</li>
+<!-- <li>Manager: <a href="https://scholar.google.com/citations?user=grUvupMAAAAJ&hl=en">Jinyu Li</a></li> -->
+<li>With <a href="https://scholar.google.com/citations?user=grUvupMAAAAJ&hl=en">Jinyu Li</a>, <a href="https://scholar.google.com/citations?user=-Jx0HyYAAAAJ&hl=en">Ruchao Fan</a>, <a href="https://scholar.google.com/citations?hl=en&user=zJTbptgAAAAJ">Keqi Deng</a>, <a href="https://scholar.google.com/citations?hl=en&user=8Gr_1C8AAAAJ">Sunit Sivasankaran</a></li>
+<li>Topic: Pre-training for native encoder-free Speech-LLMs</li>
 </ul>
 
-### <img src='/images/tencent_ai_lab.png' style='width:50px'  >   Tencent AI Lab, Bellevue, USA (remote)
+### <img src='/images/microsoft.png' style='width:80px'> Microsoft Research, Redmond, USA
 <ul class='twocol' markdown='1'>
-<li>Research Intern, Seattle Speech Lab, Sep 2023 – August 2024</li>
-<li>Manager: <a href="https://scholar.google.com/citations?user=tMY31_gAAAAJ&hl=en&oi=ao">Dong Yu</a></li>
-<li>Mentor(s): <a href="https://scholar.google.com/citations?user=nCmKPM4AAAAJ&hl=en">Yong Xu</a>, <a href="https://scholar.google.com/citations?user=4nGncN4AAAAJ&hl=en">Shi-Xiong (Austin) Zhang</a> </li>
+<li>Research Intern, CoreAI Speech Team, Jun 2025 – Sep 2025</li>
+<!-- <li>Manager: <a href="https://scholar.google.com/citations?user=grUvupMAAAAJ&hl=en">Jinyu Li</a></li> -->
+<li>With <a href="https://scholar.google.com/citations?user=grUvupMAAAAJ&hl=en">Jinyu Li</a>, <a href="https://scholar.google.com/citations?user=HHjJ0doAAAAJ&hl=en">Xiong Xiao</a>, <a href="https://scholar.google.com/citations?user=-Jx0HyYAAAAJ&hl=en">Ruchao Fan</a>, <a href="https://scholar.google.com/citations?hl=en&user=DEjebZkAAAAJ">Shaoshi Ling</a></li>
+<li>Topic: In-context learning and emergent capabilities of Speech-LLMs; joint ASR and speaker diarization</li>
 </ul>
 
-###  <img src='/images/damo.png' style='width:40px' >  Alibaba Group, Hangzhou, China
+### <img src='/images/tencent_ai_lab.png' style='width:50px'> Tencent AI Lab, Bellevue, USA (remote)
 <ul class='twocol' markdown='1'>
-<li>Research Intern, Tongyi Speech Team, Jul 2022 – May 2023</li>
-<li>Manager: <a href="https://scholar.google.com/citations?hl=en&user=ybCO4RIAAAAJ">Zhijie Yan</a></li>
-<li>Mentor(s): <a href="https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=en">Shiliang Zhang</a>, <a href="https://scholar.google.com/citations?user=Jzrv_XMAAAAJ&hl=en">Zhihao Du</a> </li>
+<li>Research Intern, Seattle Speech Lab, Sep 2023 – Aug 2024</li>
+<!-- <li>Manager: <a href="https://scholar.google.com/citations?user=tMY31_gAAAAJ&hl=en&oi=ao">Dong Yu</a></li> -->
+<li>With <a href="https://scholar.google.com/citations?user=nCmKPM4AAAAJ&hl=en">Yong Xu</a>, <a href="https://scholar.google.com/citations?user=4nGncN4AAAAJ&hl=en">Shi-Xiong (Austin) Zhang</a>, <a href="https://scholar.google.com/citations?user=tMY31_gAAAAJ&hl=en&oi=ao">Dong Yu</a></li>
+<li>Topic: Speech-LLMs; multi-talker ASR</li>
 </ul>
+
+### <img src='/images/damo.png' style='width:40px'> Alibaba Group, Hangzhou, China
+<ul class='twocol' markdown='1'>
+<li>Research Intern, Speech Team (now the Qwen-Audio team), Jul 2022 – May 2023</li>
+<!-- <li>Manager: <a href="https://scholar.google.com/citations?hl=en&user=ybCO4RIAAAAJ">Zhijie Yan</a></li> -->
+<li>With <a href="https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=en">Shiliang Zhang</a>, <a href="https://scholar.google.com/citations?user=Jzrv_XMAAAAJ&hl=en">Zhihao Du</a></li>
+<li>Topic: ASR; voice activity detection</li>
+</ul>
+
 
 <a id="Publications"></a>
 ## Selected Publications
@@ -119,19 +135,19 @@ Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, Hui Bu -->
 ###  <img src='/images/ucla.jpeg' style='width:38px'> University of California, Los Angeles
 <ul class='twocol' markdown='1'>
 <li><i>Ph.D. student</i>, Electrical and Computer Engineering, Sep 2024 – Present</li>
-<li>Advisor: <a href="https://www.seas.ucla.edu/spapl/index.html">Abeer Alwan</a> (Distinguished Prof., Fellow of IEEE/ISCA/ASA) </li>
+<!-- <li>Advisor: <a href="https://www.seas.ucla.edu/spapl/index.html">Abeer Alwan</a> (Distinguished Prof., Fellow of IEEE/ISCA/ASA) </li> -->
 </ul>
 
 ###  <img src='/images/ustc.jpeg' style='width:38px'> University of Science and Technology of China 
 <ul class='twocol' markdown='1'>
 <li><i>Master of Engineering</i>, Electronic Engineering and Information Science, Sep 2021 – Jun 2024</li>
-<li>Advisor: <a href="https://dblp.org/pid/48/6462-1.html">Li-Rong Dai</a> </li>
+<!-- <li>Advisor: <a href="https://dblp.org/pid/48/6462-1.html">Li-Rong Dai</a> </li> -->
 <!-- <li>Advisor: <a href="https://dblp.org/pid/48/6462-1.html">Li-Rong Dai</a> (Deputy Director of <a href="https://nercslip.ustc.edu.cn/main.htm">NERC-SLIP</a>) </li> -->
 </ul>
 
 ###  <img src='/images/dut.jpeg' style='width:38px'> Dalian University of Technology 
 <ul class='twocol' markdown='1'>
 <li><i>Bachelor of Engineering</i>, Electronic Information Engineering, Sep 2017 – Jun 2021</li>
-<li>GPA Rank: 1 / 185</li>
+<!-- <li>GPA Rank: 1 / 185</li> -->
 </ul>
 
