@@ -39,7 +39,7 @@ redirect_from:
 </style>
 
 
-I am Mohan Shi, a second-year Ph.D. student in Electrical and Computer Engineering at [University of California, Los Angeles (UCLA)](https://www.ucla.edu/)
+I am Mohan Shi, a second-year Ph.D. student in Electrical and Computer Engineering at [University of California, Los Angeles (UCLA)](https://www.ucla.edu/). 
 <!-- , advised by [Prof. Abeer Alwan](https://www.seas.ucla.edu/spapl/index.html). -->
 I received my master degree at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) and worked under the guidance of [Prof. Li-Rong Dai](https://dblp.org/pid/48/6462-1.html) for three years. My research interests span a variety of domains in the world of speech processing:
 
