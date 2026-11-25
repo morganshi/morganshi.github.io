@@ -69,7 +69,7 @@ I am Mohan Shi, a third-year Ph.D. student in Electrical and Computer Engineerin
 1. **Encoder Awakening via Adapters: Effective Domain-Adaptive Fine-tuning of Speech-LLMs**, *SLT 2026* [[link](https://arxiv.org/pdf/2609.17981)]
 <br><i>**Mohan Shi**</i>, Zilai Wang, Natarajan Balaji Shankar, Kaiyuan Zhang, Eray Eren, Abeer Alwan
 
-1. **Entropy-Aware Domain-Routed Mixture-of-Experts Speech-LLM Framework: A Case Study of Multi-Domain Child-Adult ASR**, *Interspeech 2026 (Best Student Paper Finalist)</font>* [[link](https://www.isca-archive.org/interspeech_2026/shi26c_interspeech.pdf)]
+1. **Entropy-Aware Domain-Routed Mixture-of-Experts Speech-LLM Framework: A Case Study of Multi-Domain Child-Adult ASR**, *Interspeech 2026 (Best Student Paper Finalist)* [[link](https://www.isca-archive.org/interspeech_2026/shi26c_interspeech.pdf)]
 <br><i>**Mohan Shi**</i>, Kaiyuan Zhang, Zilai Wang, Natarajan Balaji Shankar, Eray Eren, Abeer Alwan
 
 1. **STACodec: Semantic Token Assignment for Balancing Acoustic Fidelity and Semantic Information in Audio Codecs**, *ICASSP 2026* [[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11462866)]
@@ -78,10 +78,10 @@ I am Mohan Shi, a third-year Ph.D. student in Electrical and Computer Engineerin
 1. **Advancing Multi-talker ASR Performance with Large Language Models**, *SLT 2024* [[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10832362)]
 <br><i>**Mohan Shi**</i>, Zengrui Jin, Yaoxun Xu, Yong Xu, Shi-Xiong Zhang, Kun Wei, Yiwen Shao, Chunlei Zhang, Dong Yu
 
-1. **LibriheavyMix: A 20,000-Hour Dataset for Single-Channel Reverberant Multi-Talker Speech Separation, ASR and Speaker Diarization**, *Interspeech 2024 (Oral)</font>* [[link](https://www.isca-archive.org/interspeech_2024/jin24_interspeech.pdf)]
+1. **LibriheavyMix: A 20,000-Hour Dataset for Single-Channel Reverberant Multi-Talker Speech Separation, ASR and Speaker Diarization**, *Interspeech 2024 (Oral)* [[link](https://www.isca-archive.org/interspeech_2024/jin24_interspeech.pdf)]
 <br>Zengrui Jin\*, Yifan Yang\*, <i>**Mohan Shi\***</i>, Wei Kang, Xiaoyu Yang, Zengwei Yao, Fangjun Kuang, Liyong Guo, Lingwei Meng, Long Lin, Yong Xu, Shi-Xiong Zhang, Daniel Povey (* equal contribution)
 
-1. **Semantic VAD: Low-Latency Voice Activity Detection for Speech Interaction**, *Interspeech 2023 (Oral)</font>* [[link](https://www.isca-archive.org/interspeech_2023/shi23c_interspeech.pdf)]
+1. **Semantic VAD: Low-Latency Voice Activity Detection for Speech Interaction**, *Interspeech 2023 (Oral)* [[link](https://www.isca-archive.org/interspeech_2023/shi23c_interspeech.pdf)]
 <br><i>**Mohan Shi**</i>, Yuchun Shu, Lingyun Zuo, Qian Chen, Shiliang Zhang, Jie Zhang, Li-Rong Dai
 
 1. **CASA-ASR: Context-Aware Speaker-Attributed ASR**, *Interspeech 2023* [[link](https://www.isca-archive.org/interspeech_2023/shi23d_interspeech.pdf)]
@@ -122,7 +122,7 @@ Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, Hui Bu -->
 <li>Research Intern, Jun. 2025 – Sep. 2025</li>
 <!-- <li>Manager: <a href="https://scholar.google.com/citations?user=grUvupMAAAAJ&hl=en">Jinyu Li</a></li> -->
 <li>With <a href="https://scholar.google.com/citations?user=grUvupMAAAAJ&hl=en">Jinyu Li</a>, <a href="https://scholar.google.com/citations?user=HHjJ0doAAAAJ&hl=en">Xiong Xiao</a>, <a href="https://scholar.google.com/citations?user=-Jx0HyYAAAAJ&hl=en">Ruchao Fan</a>, <a href="https://scholar.google.com/citations?hl=en&user=DEjebZkAAAAJ">Shaoshi Ling</a></li>
-<li>Topic: In-context learning and emergent capabilities of Speech-LLMs; joint ASR and speaker diarization</li>
+<li>Topic: In-context learning and emergent capabilities of Speech-LLMs</li>
 </ul>
 
 ### <img src='/images/tencent_ai_lab.png' style='width:50px'> Tencent AI Lab, Bellevue, USA (remote)
@@ -130,7 +130,7 @@ Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, Hui Bu -->
 <!-- <li>Research Intern, Seattle Speech Lab, Sep. 2023 – Aug. 2024</li> -->
 <li>Research Intern, Sep. 2023 – Aug. 2024</li>
 <!-- <li>Manager: <a href="https://scholar.google.com/citations?user=tMY31_gAAAAJ&hl=en&oi=ao">Dong Yu</a></li> -->
-<li>With <a href="https://scholar.google.com/citations?user=nCmKPM4AAAAJ&hl=en">Yong Xu</a>, <a href="https://scholar.google.com/citations?user=4nGncN4AAAAJ&hl=en">Shi-Xiong (Austin) Zhang</a>, <a href="https://scholar.google.com/citations?user=tMY31_gAAAAJ&hl=en&oi=ao">Dong Yu</a></li>
+<li>With <a href="https://scholar.google.com/citations?user=tMY31_gAAAAJ&hl=en&oi=ao">Dong Yu</a>, <a href="https://scholar.google.com/citations?user=nCmKPM4AAAAJ&hl=en">Yong Xu</a>, <a href="https://scholar.google.com/citations?user=4nGncN4AAAAJ&hl=en">Shi-Xiong (Austin) Zhang</a></li>
 <li>Topic: Speech-LLMs; multi-talker ASR</li>
 </ul>
 
@@ -210,13 +210,17 @@ Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, Hui Bu -->
 <a id="Honors and Awards"></a>
 ## Honors and Awards
 ----
+<ul class='twocol' markdown='1'>
 <li> Amazon Research Innovation Fellow, Sep. 2026 </li>
-<li> Interspeech 2026 Best Student Paper Nominee, Sep. 2026 </li>
+<li> Interspeech 2026 Best Student Paper Finalist, Sep. 2026 </li>
 <li> Department Fellowship of UCLA ECE, Sep. 2024 </li>
 <li> Outstanding Graduate of USTC, Jun. 2024 </li>
+</ul>
 
 <a id="Academic Services"></a>
 
 ## Academic Services
 ----
-<li>Reviewer: Interspeech, IEEE ICASSP, IEEE ASRU, IEEE SLT, IEEE Signal Processing Letters (SPL) </li>
+<ul class='twocol' markdown='1'>
+<li>Reviewer: Interspeech, IEEE ICASSP, IEEE ASRU, IEEE SLT, IEEE Signal Processing Letters </li>
+</ul>
