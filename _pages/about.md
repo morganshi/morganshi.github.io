@@ -134,7 +134,7 @@ Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, Hui Bu -->
 <li>Topic: Speech-LLMs; multi-talker ASR</li>
 </ul>
 
-### <img src='/images/damo.png' style='width:40px'> Alibaba Group, Hangzhou, China
+### <img src='/images/alibaba.png' style='width:40px'> Alibaba Group, Hangzhou, China
 <ul class='twocol' markdown='1'>
 <!-- <li>Research Intern, Speech Team (now the Qwen-Audio team), Jul. 2022 – May 2023</li> -->
 <li>Research Intern, Jul. 2022 – May 2023</li>
