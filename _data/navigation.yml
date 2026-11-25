@@ -1,11 +1,15 @@
 # main links links
 main:
-  - title: "Experience"
-    url: "#Experience"
-  - title: "Publications"
-    url: "#Publications"
+  - title: "Selected Publications"
+    url: "#Selected Publications"
+  - title: "Internship Experience"
+    url: "#Internship Experience"
   - title: "Education"
     url: "#Education"
+  - title: "Honors and Awards"
+    url: "#Honors and Awards"
+  - title: "Academic Services"
+    url: "#Academic Services"
   # - title: "CV"
   #   url: /files/Mohan_UCLA.pdf
 #   - title: "Publications"

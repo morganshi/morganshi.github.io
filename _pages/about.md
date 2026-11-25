@@ -39,41 +39,87 @@ redirect_from:
 </style>
 
 
-I am Mohan Shi, a third-year Ph.D. student in Electrical and Computer Engineering at [University of California, Los Angeles (UCLA)](https://www.ucla.edu/). 
-<!-- , advised by [Prof. Abeer Alwan](https://www.seas.ucla.edu/spapl/index.html). -->
-I received my master degree at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/).
+I am Mohan Shi, a third-year Ph.D. student in Electrical and Computer Engineering at the [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), advised by [Prof. Abeer Alwan](https://www.seas.ucla.edu/spapl/index.html).
+<!-- I received my master degree at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). -->
  <!-- and worked under the guidance of [Prof. Li-Rong Dai](https://dblp.org/pid/48/6462-1.html) for three years.  -->
  My research interests span a variety of domains in the world of speech processing:
 
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li>Automatic Speech Recognition</li>
-<li>Speech-centric Large Language Models</li>
-<li>Child/Low-resource Speech Processing</li>
-<li>Cocktail Party Problems</li>
+<li>Speech-aware Large Language Models</li>
+<li>Low-resource Speech Processing</li>
+<li>Multimodal Interaction</li>
 </ul>
 
 <!-- **<font color="red">My summer intern paper at Microsoft is now on <a href="https://arxiv.org/pdf/2511.16046">arXiv</a>! We use Phi-4-Multimodal for joint ASR and speaker diarization, achieving SOTA on both short and long audio.</font>** -->
 
-**<font color="red">I am seeking research internship opportunities in 2027. Please reach out if you have any leads.</font>**
+<!-- **<font color="red">I am seeking research internship opportunities in 2027. Please reach out if you have any leads.</font>** -->
 
 <!-- **<font color="red">I have joined the Microsoft Azure AI Speech Team as a Research Intern and will be working on Phi-4-multimodal this summer.</font>** -->
 
-<a id="Experience"></a>
+<a id="Selected Publications"></a>
+## Selected Publications
+----
+<!-- 1. **Teaching LLMs to Hear Who Spoke What: Metadata-Supervised Pretraining for Encoder-Free Speech-LLMs**, *Preprint* [[link](https://arxiv.org/pdf/2610.01695)]
+<br><i>**Mohan Shi**</i>, Ruchao Fan, Sunit Sivasankaran, Keqi Deng, Jinyu Li -->
 
-## Experience
+1. **Train Short, Infer Long: Speech-LLM Enables Zero-Shot Streamable Joint ASR and Diarization on Long Audio**, *ICASSP 2026* [[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11464726)]
+<br><i>**Mohan Shi**</i>, Xiong Xiao, Ruchao Fan, Shaoshi Ling, Jinyu Li
+
+1. **Encoder Awakening via Adapters: Effective Domain-Adaptive Fine-tuning of Speech-LLMs**, *SLT 2026* [[link](https://arxiv.org/pdf/2609.17981)]
+<br><i>**Mohan Shi**</i>, Zilai Wang, Natarajan Balaji Shankar, Kaiyuan Zhang, Eray Eren, Abeer Alwan
+
+1. **Entropy-Aware Domain-Routed Mixture-of-Experts Speech-LLM Framework: A Case Study of Multi-Domain Child-Adult ASR**, *Interspeech 2026 (Best Student Paper Finalist)</font>* [[link](https://www.isca-archive.org/interspeech_2026/shi26c_interspeech.pdf)]
+<br><i>**Mohan Shi**</i>, Kaiyuan Zhang, Zilai Wang, Natarajan Balaji Shankar, Eray Eren, Abeer Alwan
+
+1. **STACodec: Semantic Token Assignment for Balancing Acoustic Fidelity and Semantic Information in Audio Codecs**, *ICASSP 2026* [[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11462866)]
+<br>Kaiyuan Zhang\*, <i>**Mohan Shi\***</i>, Eray Eren, Natarajan Balaji Shankar, Zilai Wang, Abeer Alwan (* equal contribution)
+
+1. **Advancing Multi-talker ASR Performance with Large Language Models**, *SLT 2024* [[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10832362)]
+<br><i>**Mohan Shi**</i>, Zengrui Jin, Yaoxun Xu, Yong Xu, Shi-Xiong Zhang, Kun Wei, Yiwen Shao, Chunlei Zhang, Dong Yu
+
+1. **LibriheavyMix: A 20,000-Hour Dataset for Single-Channel Reverberant Multi-Talker Speech Separation, ASR and Speaker Diarization**, *Interspeech 2024 (Oral)</font>* [[link](https://www.isca-archive.org/interspeech_2024/jin24_interspeech.pdf)]
+<br>Zengrui Jin\*, Yifan Yang\*, <i>**Mohan Shi\***</i>, Wei Kang, Xiaoyu Yang, Zengwei Yao, Fangjun Kuang, Liyong Guo, Lingwei Meng, Long Lin, Yong Xu, Shi-Xiong Zhang, Daniel Povey (* equal contribution)
+
+1. **Semantic VAD: Low-Latency Voice Activity Detection for Speech Interaction**, *Interspeech 2023 (Oral)</font>* [[link](https://www.isca-archive.org/interspeech_2023/shi23c_interspeech.pdf)]
+<br><i>**Mohan Shi**</i>, Yuchun Shu, Lingyun Zuo, Qian Chen, Shiliang Zhang, Jie Zhang, Li-Rong Dai
+
+1. **CASA-ASR: Context-Aware Speaker-Attributed ASR**, *Interspeech 2023* [[link](https://www.isca-archive.org/interspeech_2023/shi23d_interspeech.pdf)]
+<br><i>**Mohan Shi**</i>, Zhihao Du, Qian Chen, Fan Yu, Yangze Li, Shiliang Zhang, Jie Zhang, Li-Rong Dai
+
+
+<!-- 1. **A Comparative Study on Multichannel Speaker-Attributed Automatic Speech Recognition in Multi-party Meetings**, *APSIPA ASC 2023* [[pdf](https://arxiv.org/pdf/2211.00511)]
+<br><i>**Mohan Shi**</i>, Jie Zhang, Zhihao Du, Fan Yu, Qian Chen, Shiliang Zhang, Li-Rong Dai -->
+
+<!-- 1. **The Second Multi-Channel Multi-Party Meeting Transcription Challenge (M2MeT 2.0): A Benchmark for Speaker-Attributed ASR**, *ASRU 2023* [[pdf](https://arxiv.org/pdf/2309.13573)]
+<br>Yuhao Liang, <i>**Mohan Shi**</i>, Fan Yu, Yangze Li, Shiliang Zhang, Zhihao Du, Lei Xie, Yanmin Qian, Jian
+Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, Hui Bu -->
+
+<!-- 1. **Non-autoregressive End-to-End Speaker-Attributed ASR**, *ASRU 2023* [[pdf](https://arxiv.org/pdf/2310.04863)]
+<br>Yangze Li, Fan Yu, Yuhao Liang, Pengcheng Guo, <i>**Mohan Shi**</i>, Zhihao Du, Shiliang Zhang, Lei Xie
+
+1. **The USTC-NELSLIP offline speech translation systems for IWSLT 2022**, *IWSLT 2022* [[pdf](https://aclanthology.org/2022.iwslt-1.15.pdf)]
+<br>Weitai Zhang, Zhongyi Ye, Haitao Tang, Xiaoxi Li, Xinyuan Zhou, Jing Yang, Jianwei Cui, Pan Deng, <i>**Mohan Shi**</i>, Yifan Song, Dan Liu, Junhua Liu, Lirong Dai -->
+
+
+<a id="Internship Experience"></a>
+
+## Internship Experience
 ----
 
 ### <img src='/images/microsoft.png' style='width:80px'> Microsoft Research, Redmond, USA
 <ul class='twocol' markdown='1'>
-<li>Research Intern, CoreAI Speech Team, Jun 2026 – Sep 2026</li>
+<!-- <li>Research Intern, CoreAI Speech Team, Jun. 2026 – Sep. 2026</li> -->
+<li>Research Intern, Jun. 2026 – Sep. 2026</li>
 <!-- <li>Manager: <a href="https://scholar.google.com/citations?user=grUvupMAAAAJ&hl=en">Jinyu Li</a></li> -->
 <li>With <a href="https://scholar.google.com/citations?user=grUvupMAAAAJ&hl=en">Jinyu Li</a>, <a href="https://scholar.google.com/citations?user=-Jx0HyYAAAAJ&hl=en">Ruchao Fan</a>, <a href="https://scholar.google.com/citations?hl=en&user=zJTbptgAAAAJ">Keqi Deng</a>, <a href="https://scholar.google.com/citations?hl=en&user=8Gr_1C8AAAAJ">Sunit Sivasankaran</a></li>
-<li>Topic: Native encoder-free Speech-LLMs pretraining</li>
+<li>Topic: Native encoder-free Speech-LLM pretraining</li>
 </ul>
 
 ### <img src='/images/microsoft.png' style='width:80px'> Microsoft Research, Redmond, USA
 <ul class='twocol' markdown='1'>
-<li>Research Intern, CoreAI Speech Team, Jun 2025 – Sep 2025</li>
+<!-- <li>Research Intern, CoreAI Speech Team, Jun. 2025 – Sep. 2025</li> -->
+<li>Research Intern, Jun. 2025 – Sep. 2025</li>
 <!-- <li>Manager: <a href="https://scholar.google.com/citations?user=grUvupMAAAAJ&hl=en">Jinyu Li</a></li> -->
 <li>With <a href="https://scholar.google.com/citations?user=grUvupMAAAAJ&hl=en">Jinyu Li</a>, <a href="https://scholar.google.com/citations?user=HHjJ0doAAAAJ&hl=en">Xiong Xiao</a>, <a href="https://scholar.google.com/citations?user=-Jx0HyYAAAAJ&hl=en">Ruchao Fan</a>, <a href="https://scholar.google.com/citations?hl=en&user=DEjebZkAAAAJ">Shaoshi Ling</a></li>
 <li>Topic: In-context learning and emergent capabilities of Speech-LLMs; joint ASR and speaker diarization</li>
@@ -81,7 +127,8 @@ I received my master degree at the [University of Science and Technology of Chin
 
 ### <img src='/images/tencent_ai_lab.png' style='width:50px'> Tencent AI Lab, Bellevue, USA (remote)
 <ul class='twocol' markdown='1'>
-<li>Research Intern, Seattle Speech Lab, Sep 2023 – Aug 2024</li>
+<!-- <li>Research Intern, Seattle Speech Lab, Sep. 2023 – Aug. 2024</li> -->
+<li>Research Intern, Sep. 2023 – Aug. 2024</li>
 <!-- <li>Manager: <a href="https://scholar.google.com/citations?user=tMY31_gAAAAJ&hl=en&oi=ao">Dong Yu</a></li> -->
 <li>With <a href="https://scholar.google.com/citations?user=nCmKPM4AAAAJ&hl=en">Yong Xu</a>, <a href="https://scholar.google.com/citations?user=4nGncN4AAAAJ&hl=en">Shi-Xiong (Austin) Zhang</a>, <a href="https://scholar.google.com/citations?user=tMY31_gAAAAJ&hl=en&oi=ao">Dong Yu</a></li>
 <li>Topic: Speech-LLMs; multi-talker ASR</li>
@@ -89,14 +136,15 @@ I received my master degree at the [University of Science and Technology of Chin
 
 ### <img src='/images/damo.png' style='width:40px'> Alibaba Group, Hangzhou, China
 <ul class='twocol' markdown='1'>
-<li>Research Intern, Speech Team (now the Qwen-Audio team), Jul 2022 – May 2023</li>
+<!-- <li>Research Intern, Speech Team (now the Qwen-Audio team), Jul. 2022 – May 2023</li> -->
+<li>Research Intern, Jul. 2022 – May 2023</li>
 <!-- <li>Manager: <a href="https://scholar.google.com/citations?hl=en&user=ybCO4RIAAAAJ">Zhijie Yan</a></li> -->
 <li>With <a href="https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=en">Shiliang Zhang</a>, <a href="https://scholar.google.com/citations?user=Jzrv_XMAAAAJ&hl=en">Zhihao Du</a></li>
 <li>Topic: ASR; voice activity detection</li>
 </ul>
 
 
-<a id="Publications"></a>
+<!-- <a id="Publications"></a>
 ## Selected Publications
 ----
 1. **Teaching LLMs to Hear Who Spoke What: Metadata-Supervised Pretraining for Encoder-Free Speech-LLMs**, *Preprint* [[link](https://arxiv.org/pdf/2610.01695)]
@@ -121,7 +169,7 @@ I received my master degree at the [University of Science and Technology of Chin
 <br><i>**Mohan Shi**</i>, Yuchun Shu, Lingyun Zuo, Qian Chen, Shiliang Zhang, Jie Zhang, Li-Rong Dai
 
 1. **CASA-ASR: Context-Aware Speaker-Attributed ASR**, *Interspeech 2023* [[link](https://www.isca-archive.org/interspeech_2023/shi23d_interspeech.pdf)]
-<br><i>**Mohan Shi**</i>, Zhihao Du, Qian Chen, Fan Yu, Yangze Li, Shiliang Zhang, Jie Zhang, Li-Rong Dai
+<br><i>**Mohan Shi**</i>, Zhihao Du, Qian Chen, Fan Yu, Yangze Li, Shiliang Zhang, Jie Zhang, Li-Rong Dai -->
 
 
 <!-- 1. **A Comparative Study on Multichannel Speaker-Attributed Automatic Speech Recognition in Multi-party Meetings**, *APSIPA ASC 2023* [[pdf](https://arxiv.org/pdf/2211.00511)]
@@ -142,20 +190,33 @@ Wu, Zhuo Chen, Kong Aik Lee, Zhijie Yan, Hui Bu -->
 ----
 ###  <img src='/images/ucla.jpeg' style='width:38px'> University of California, Los Angeles
 <ul class='twocol' markdown='1'>
-<li><i>Ph.D. student</i>, Electrical and Computer Engineering, Sep 2024 – Present</li>
+<li><i>Ph.D. student</i>, Electrical and Computer Engineering, Sep. 2024 – Present</li>
 <!-- <li>Advisor: <a href="https://www.seas.ucla.edu/spapl/index.html">Abeer Alwan</a> (Distinguished Prof., Fellow of IEEE/ISCA/ASA) </li> -->
 </ul>
 
 ###  <img src='/images/ustc.jpeg' style='width:38px'> University of Science and Technology of China 
 <ul class='twocol' markdown='1'>
-<li><i>Master of Engineering</i>, Electronic Engineering and Information Science, Sep 2021 – Jun 2024</li>
+<li><i>Master of Engineering</i>, Electronic Engineering and Information Science, Sep. 2021 – Jun. 2024</li>
 <!-- <li>Advisor: <a href="https://dblp.org/pid/48/6462-1.html">Li-Rong Dai</a> </li> -->
 <!-- <li>Advisor: <a href="https://dblp.org/pid/48/6462-1.html">Li-Rong Dai</a> (Deputy Director of <a href="https://nercslip.ustc.edu.cn/main.htm">NERC-SLIP</a>) </li> -->
 </ul>
 
 ###  <img src='/images/dut.jpeg' style='width:38px'> Dalian University of Technology 
 <ul class='twocol' markdown='1'>
-<li><i>Bachelor of Engineering</i>, Electronic Information Engineering, Sep 2017 – Jun 2021</li>
+<li><i>Bachelor of Engineering</i>, Electronic Information Engineering, Sep. 2017 – Jun. 2021</li>
 <!-- <li>GPA Rank: 1 / 185</li> -->
 </ul>
 
+<a id="Honors and Awards"></a>
+## Honors and Awards
+----
+<li> Amazon Research Innovation Fellow, Sep. 2026 </li>
+<li> Interspeech 2026 Best Student Paper Nominee, Sep. 2026 </li>
+<li> Department Fellowship of UCLA ECE, Sep. 2024 </li>
+<li> Outstanding Graduate of USTC, Jun. 2024 </li>
+
+<a id="Academic Services"></a>
+
+## Academic Services
+----
+<li>Reviewer: Interspeech, IEEE ICASSP, IEEE ASRU, IEEE SLT, IEEE Signal Processing Letters (SPL) </li>

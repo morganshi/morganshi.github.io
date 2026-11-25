@@ -1,0 +1,30 @@
+# main links links
+main:
+  - title: "Experience"
+    url: "#Experience"
+  - title: "Publications"
+    url: "#Publications"
+  - title: "Education"
+    url: "#Education"
+  # - title: "CV"
+  #   url: /files/Mohan_UCLA.pdf
+#   - title: "Publications"
+#     url: /publications/
+
+#   - title: "Talks"
+#     url: /talks/    
+
+#   - title: "Teaching"
+#     url: /teaching/    
+    
+#   - title: "Portfolio"
+#     url: /portfolio/
+        
+#   - title: "Blog Posts"
+#     url: /year-archive/
+    
+#   - title: "CV"
+#     url: /cv/
+    
+#   - title: "Guide"
+#     url: /markdown/
